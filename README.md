@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lohithsamaga
-- 👀 I’m interested in deeloping and archtiecting applications on AWS.
+- 👀 I’m interested in developing and architecting applications on AWS.
 - 🌱 I’m currently learning to create serverless applications using Python on AWS.
 - 💞️ I’m looking to collaborate on designing and developing new serverless architectures on AWS.
 - 📫 You can reach me at ...
